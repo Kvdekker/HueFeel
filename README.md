@@ -8,13 +8,13 @@ HueFeel is a unique and innovative Internet of Things (IoT) accessory designed f
 
 ### Key Features:
 
-1. **Touch and Vibration: **
+1. Touch and Vibration:
 When one person touches their HueFeel accessory, the other person's accessory responds with a vibration, creating a subtle yet intimate connection.
-2. **Express with Colors: **
+2. Express with Colors:
 Customize the color display on your HueFeel to convey your emotions or messages. Choose from a spectrum of colors to express your feelings in a personal and creative way. Use the four implemented LEDs to express the colors you'd like your loved one to wear.
-3. **Mobile App Control: **
+3. Mobile App Control:
 Seamlessly control your HueFeel accessories using the dedicated mobile app. Adjust vibration patterns, set color themes, and stay connected from anywhere.
-4. **Cloud Integration:** 
+4. Cloud Integration:
 Your settings and interactions are synchronized through the cloud, ensuring a real-time connection no matter where you and your loved one are.
-5. **Data Insights: **
+5. Data Insights:
 Gain insights into your usage patterns and discover how you connect with your partner through data analytics.
