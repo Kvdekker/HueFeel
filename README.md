@@ -4,6 +4,8 @@ Koen Dekker
 ## What is HueFeel?
 HueFeel is a unique and innovative Internet of Things (IoT) accessory designed for couples or loved ones. It's not just a wearable, it's a tangible connection that allows you to feel each other's presence, even when you're apart.
 
+![huefeel CONCEPT](https://github.com/Kvdekker/HueFeel/assets/96053886/124bea4a-a5d2-40ad-8dd5-139dddb583cf)
+
 ### Key Features:
 
 1. **Touch and Vibration: **
