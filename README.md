@@ -1,5 +1,5 @@
 ![Asset 2](https://github.com/Kvdekker/HueFeel/assets/96053886/b3a11deb-aa44-44f2-afa2-91e3984f8417)
-# HueFeel [Manual](https://github.com/Kvdekker/HueFeel/wiki)
+# [HueFeel Manual](https://github.com/Kvdekker/HueFeel/wiki)
 ## What is HueFeel?
 HueFeel is a unique and innovative Internet of Things (IoT) accessory designed for couples or loved ones. It's not just a wearable, it's a tangible connection that allows you to feel each other's presence, even when you're apart.
 
