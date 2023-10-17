@@ -18,5 +18,5 @@ Your settings and interactions are synchronized through the cloud, ensuring a re
 5. Data Insights:
 Gain insights into your usage patterns and discover how you connect with your partner through data analytics.
 
-Check out the How to manual [here](https://github.com/Kvdekker/HueFeel/wiki)https://github.com/Kvdekker/HueFeel/wiki!
+Check out the How to manual [here](https://github.com/Kvdekker/HueFeel/wiki)!
 Koen Dekker
