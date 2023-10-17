@@ -1,5 +1,5 @@
 ![Asset 2](https://github.com/Kvdekker/HueFeel/assets/96053886/b3a11deb-aa44-44f2-afa2-91e3984f8417)
-
+# HueFeel Manual
 ## What is HueFeel?
 HueFeel is a unique and innovative Internet of Things (IoT) accessory designed for couples or loved ones. It's not just a wearable, it's a tangible connection that allows you to feel each other's presence, even when you're apart.
 
@@ -18,4 +18,5 @@ Your settings and interactions are synchronized through the cloud, ensuring a re
 5. Data Insights:
 Gain insights into your usage patterns and discover how you connect with your partner through data analytics.
 
+Check out the How to manual [here](https://github.com/Kvdekker/HueFeel/wiki)https://github.com/Kvdekker/HueFeel/wiki!
 Koen Dekker
